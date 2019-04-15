@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-avgle/static/js/runtime~main.1194faf6.js"
   },
   {
-    "revision": "426d1c02cd1712156364",
-    "url": "/react-avgle/static/js/main.231ff407.chunk.js"
+    "revision": "e8f25f5b2fcdce0c74a4",
+    "url": "/react-avgle/static/js/main.fa71a348.chunk.js"
   },
   {
     "revision": "245653c7f3ad33eebeec",
     "url": "/react-avgle/static/js/2.7243bebf.chunk.js"
   },
   {
-    "revision": "426d1c02cd1712156364",
+    "revision": "e8f25f5b2fcdce0c74a4",
     "url": "/react-avgle/static/css/main.4a0dbf81.chunk.css"
   },
   {
-    "revision": "a89b96e2eb2f4d7855fee4b646a2c355",
+    "revision": "93a4f0a2c7c6b360fca226ad66043022",
     "url": "/react-avgle/index.html"
   }
 ];
